@@ -1,0 +1,54 @@
+.p1{
+	font-weight: bold;
+font-size: xx-large;
+
+
+}
+.p2{
+	font-weight: bold;
+font-size:300% ;
+text-align: center
+
+}
+.name-group{
+	color: red;
+}
+.p3{
+	font-size: x-large;
+	font-weight: bold;
+	text-align: right;
+}
+
+.line{
+	border-bottom: 1px solid black;
+
+}
+.html5-css3{
+	font-weight: 900;
+	font-size: larger;
+
+}
+
+
+.href{
+	font-style: italic;
+	font-size: 110%;
+	font-weight: bold;
+}
+.img{
+ margin-left: auto;
+ margin-right: auto;
+ width: 400px;
+}
+
+.p4{
+	font-weight: bold;
+	font-size: larg;
+
+}
+.p5{
+	font-style: italic;
+	font-weight: bold;
+	font-size: larg;
+
+}
